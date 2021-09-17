@@ -1,0 +1,48 @@
+[
+	{
+		"ID": 1,
+		"FirstName": "RIDDHI",
+		"LastName": "Kadiya",
+		"Gender": "Female",
+		"Age": 30,
+		"Status": "Active",
+		"actions": "Edit"
+	},
+	{
+		"ID": 2,
+		"FirstName": "NIKITA",
+		"LastName": "Kadiya",
+		"Gender": "Female",
+		"Age": 35,
+		"Status": "Active",
+		"actions": "Edit"
+	},
+	{
+		"ID": 3,
+		"FirstName": "PALAK",
+		"LastName": "Kadiya",
+		"Gender": "Female",
+		"Age": 30,
+		"Status": "Active",
+		"actions": "Edit"
+	},
+	{
+		"ID": 4,
+		"FirstName": "JYOTIKA",
+		"LastName": "Kadiya",
+		"Gender": "Female",
+		"Age": 35,
+		"Status": "Active",
+		"actions": "Edit"
+
+	},
+	{
+		"ID": 5,
+		"FirstName": "SAVAN",
+		"LastName": "Kadiya",
+		"Gender": "Male",
+		"Age": 38,
+		"Status": "InActive",
+		"actions": "Edit"
+	}
+  ]
