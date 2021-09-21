@@ -14,6 +14,7 @@ export class DynamicServiceService {
   }
 
   getPersonalInformation(): Observable<PersonalData[]> {
-    return this.httpClient.get<PersonalData[]>(`${environment.baseURL}personalData.json`);
+    return this.httpClient.get<PersonalData[]>(`assets/personalData.json`);
+    // return this.httpClient.get<PersonalData[]>(`${environment.baseURL}personalData.json`);
   }
 }
